@@ -1,6 +1,6 @@
 # Christmas-hack-CTF
 
-'''
+```
 <html>
 <head>
 <title>Christmas hack</title>
@@ -46,4 +46,4 @@ body {
 </center>
 </html>
 
-'''
+```
