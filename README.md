@@ -1,4 +1,6 @@
-# Christmas-hack-CTF
+Published on swehack forum: https://swehack.org/viewtopic.php?f=37&p=17924#p17902
+
+The challenge is still up if you want to try it: https://direktoratet.se/swehack/chall/julhack/
 
 ```
 <html>
